@@ -1,0 +1,3 @@
+## Starboard Corner
+
+After reaching the White Church, they "made a corner three points to the starboard." We are interpreting this to mean that after walking a short distance, the two travelers take a left turn. Thus, while keeping the White Chruch to their right side ("larboard"), they then take a hard left at the first corner on the map. In the case of this project, the most logical corner was determined to be at Broad and Center streets in modern Nantucket. 

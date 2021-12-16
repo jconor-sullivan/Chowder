@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>'Chowder' Chapter</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css"
+        integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+        integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+        crossorigin="" />
+
+    <link rel="stylesheet" type="text/css" href="\v1\assets\css\chowder.css" />
+</head>
+
+<body>
+    <div class="container">
+        <h1>Finding Melville's Try Pots Inn </h1>
+        <div class="row">
+            <div class="col-md-5">
+                <div id="chowder"></div>
+                <div class="buttons">
+                    
+                        <button id="ishmael" type="button" class="btn btn-secondary">"Ishmael's" Route</button>
+                    
+                    
+                        <button id="queequeg" type="button" class="btn btn-secondary">Queequeg's Route</button>
+                    
+                </div>
+            </div>
+            <div class="col-md-7" id="places-sidebar">
+                <div id="chowder-map" class="map"></div>
+                <div id="content">
+                    <nav id="nav-tabs" class="nav nav-pills mt-3 nav-fill" role="tablist">
+                        <a class="nav-link active" href="#introduction" data-toggle="tab" role="tab">Introduction</a>
+                        <a class="nav-link" href="#anchor" data-toggle="tab" role="tab">Anchor</a>
+                        <a class="nav-link" href="#spouterinn" data-toggle="tab" role="tab">Spouter Inn</a>
+                        <a class="nav-link" href="#trypots" data-toggle="tab" role="tab">Try Pots</a>
+                        <a class="nav-link" href="#nantucket" data-toggle="tab" role="tab">Nantucket</a>
+                        <a class="nav-link" href="#yellowwarehouse" data-toggle="tab" role="tab">Yellow Warehouse</a>
+                        <a class="nav-link" href="#whitechurch" data-toggle="tab" role="tab">White Church</a>
+                        <a class="nav-link" href="#corner" data-toggle="tab" role="tab">Starboard Corner</a>
+                    </nav>
+                    <div class="tab-content p-3">
+                        <section class="tab-pane active" id="introduction" role="tabpanel"></section>
+                        <section class="tab-pane" id="anchor" role="tabpanel"></section>
+                        <section class="tab-pane" id="spouterinn" role="tabpanel"></section>
+                        <section class="tab-pane" id="trypots" role="tabpanel"></section>
+                        <section class="tab-pane" id="nantucket" role="tabpanel"></section>
+                        <section class="tab-pane" id="yellowwarehouse" role="tabpanel"></section>
+                        <section class="tab-pane" id="whitechurch" role="tabpanel"></section>
+                        <section class="tab-pane" id="corner" role="tabpanel"></section>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"
+        integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb"
+        crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"
+        integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn"
+        crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+        integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+        crossorigin=""></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/8.4.0/markdown-it.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it-footnote/3.0.1/markdown-it-footnote.js"></script>
+    <script src="\v1\assets\js\chowder.js"></script>
+</body>
+
+</html>

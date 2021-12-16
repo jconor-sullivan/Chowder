@@ -1,0 +1,126 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.09695962946495,
+                    41.287236427952095 
+
+                     
+                ]
+            },
+            "properties": {
+                "note": "came snugly to anchor",
+                "zoom": 16,
+                "name": "Anchor",
+                "tab": "anchor",
+                "more": "41.287236427952095, -70.09695962946495"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.92176519,
+                    41.63155177
+                ]
+            },
+            "properties": {
+                "note": "Spouter-Inn",
+                "zoom": 8,
+                "name": "Spouter Inn",
+                "tab": "spouterinn",
+                "more": "41.63155177, -70.92176519"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.10038021,
+                    41.28436131
+                ]
+            },
+            "properties": {
+                "note": "Try Pots",
+                "zoom": 18,
+                "name": "Try Pots",
+                "tab": "trypots",
+                "more": "41.28436131, -70.10038021"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.09948382,
+                    41.28340493
+                ]
+            },
+            "properties": {
+                "note": "Nantucket",
+                "zoom": 10,
+                "name": "Nantucket",
+                "tab": "nantucket",
+                "more": "41.28340493, -70.09948382"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.0983518,
+                    41.28563361
+                ]
+            },
+            "properties": {
+                "note": "yellow warehouse",
+                "zoom": 18,
+                "name": "Yellow Warehouse",
+                "tab": "yellowwarehouse",
+                "more": "41.28563361, -70.0983518"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.10040343742108,
+                    41.28505678521699
+                ]
+            },
+            "properties": {
+                "note": "a white church to the larboard",
+                "zoom": 18,
+                "name": "White Church",
+                "tab": "whitechurch",
+                "more": "41.28501849054325, -70.10074676012842"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.10069848036886,
+                    41.284958025209065 
+                ]
+            },
+            "properties": {
+                "note": "made a corner three points to the starboard",
+                "zoom": 18,
+                "name": "Starboard Corner",
+                "tab": "corner",
+                "more": "41.284958025209065, -70.10069848036886"
+            }
+        }
+    ]
+}

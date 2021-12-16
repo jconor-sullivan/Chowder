@@ -1,0 +1,45 @@
+.map {
+	height: 350px;
+  margin-left: 50px;
+}
+
+@import url("https://fonts.googleapis.com/css?family=EB+Garamond");
+
+body {
+	font-family: "EB Garamond", serif;
+}
+
+.leaflet-container {
+	font-family: "EB Garamond", serif;
+}
+
+body,
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+	background-color: #f0e3d8;
+}
+.markerLabel {
+  color: white;
+  background-color:#0275D8;
+  font-size: 12;
+  display: none;
+  padding: 3px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.nav-link {
+  border: 1px dashed #222;
+  text-align: center;
+}
+
+.nav-link:hover {
+border: 1px solid #222;
+background-color: lightblue;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}

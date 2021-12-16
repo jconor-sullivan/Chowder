@@ -1,0 +1,7 @@
+## Introduction
+
+Welcome to our attempt to track "Ishamel" and Queequeg's journey to the Try Pots Inn. The passage on the left side of the screen comes from the "Chowder Chapter" of _Moby Dick_ by Herman Melville. The chapter is known for its description of "Ishmael's" first taste of clam chowder, which he describes in fine detail. However, the passage excerpted here provides no such fine detail. It is a short, confusing description of how "Ishmael" and Queequeg have difficulties reaching the Try Pots Inn due to a misunderstanding of the directions given by by Peter Coffin back at the Spouter Inn in New Bedford.
+
+The reader is never provided with the accurate directions to the Try Pots; however, it can be inferred that the direction were functional outside of a misunderstanding as to whether to keep the "Yellow Warehouse" to one's starboard (left-hand side) or larboard (right-hand side). After that, there seems to be no debate on the accuracy of the directions.
+
+As an unreliable narrator, this project will assume that "Ishmael" was the provider of the incorrect route to the Try Pots. Select the buttons below the passage to see how we envision each traveler's route to take them. The navigation is imagined on modern Nantucket streets. But, the fictional locations were inspired by referencing [this 1881 map of Nantucket](https://www.loc.gov/item/75694593/) from the Library of Congress archives. 
